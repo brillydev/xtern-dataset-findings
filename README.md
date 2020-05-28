@@ -1,5 +1,7 @@
 # xtern-dataset-findings
 
+#### The writeup below is a joke. If you're here for serious information, you're at a wrong place 👨‍💻
+
 The number of scooters with different power levels are:
 
 | 0    | 1    | 2    | 3    | 4    | 5    |
