@@ -1,6 +1,6 @@
 # xtern-dataset-findings
 
-#### The writeup below is a joke. If you're here for serious information, you're at a wrong place 👨‍💻
+#### If you're here for serious information, you're out of luck 👨‍💻
 
 The number of scooters with different power levels are:
 
